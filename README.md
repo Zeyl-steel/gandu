@@ -1,2 +1,3 @@
 # gandu
-my second git repository
+my second git repository 
+author-ankit
